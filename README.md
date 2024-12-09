@@ -33,7 +33,7 @@
           README.md             # Project documentation
           others  ...
 
-contact
+# contact
 
 Email: beletebogale2@gmail.com
 GitHub: (https://github.com/beltobel/)
